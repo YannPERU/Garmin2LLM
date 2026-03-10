@@ -5,7 +5,7 @@ un prompt clé-en-main à coller dans ChatGPT, Claude ou n'importe quel coach IA
 
 **Aucune installation locale** — tourne entièrement dans Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_USERNAME/TON_REPO/blob/main/GarminCoach_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YannPERU/Garmin2LLM/blob/main/ColabGarmin2LLM.ipynb)
 
 ---
 
